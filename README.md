@@ -1,5 +1,5 @@
-# Blog in Gatsby
+# Blog in Gatsby (Deprecated)
 
-The blog of [Buildings Are Heavy](https://buildingsareheavy.com/) built in Gatsby.
+This repo has been deprecated and replaced with [this one](https://github.com/buildingsareheavy/buildingsareheavy.com). 
 
-I previously had built my blog in Wordpress and my personal portfolio in PHP and Bootstrap, but I felt it was best to combine both into one site. Wordpress was slow and overkill, and both PHP and Bootstrap felt limited, so a static site generator made the most sense. 
+The new repo is cloned from the [Gatsby Starter Blog](https://github.com/gatsbyjs/gatsby-starter-blog). It has a lot more built in functionality, and has been refactored to be a lot cleaner. It's also a clean install of v2 of Gatsby.

@@ -15,7 +15,7 @@
     // this is the file that brings in our various posts
     const postTemplate = path.resolve('src/templates/post.js');
 
-    // we ae are grabbing all of our pages and frontmatter data
+    // we are grabbing all of our pages and frontmatter data
     // allMarkdownRemark is coming from the Markdown plugin, duh
     // edges are the nodes themselves
     // remark automatically creates an id for us
